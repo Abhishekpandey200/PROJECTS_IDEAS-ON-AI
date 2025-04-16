@@ -1,0 +1,5 @@
+predefining 
+implementation
+testing 
+debug
+deployment
